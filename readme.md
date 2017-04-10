@@ -1,6 +1,4 @@
 # Archivers.space Docs
 
+[api documentation](https://api.docs.archivers.space)
 
-# Planning an event
-# Writing Metadata
-# Contributing Uncrawlables code
